@@ -4,7 +4,6 @@ Professional Business Intelligence solution developed to monitor regional sales 
 
 ## 🔗 Quick Links
 - **[Interactive Dashboard](#)** *(Insira o link do Power BI Service aqui)*
-- **[Technical Documentation (PDF)](docs/Documentacao_Tecnica_ChocoDelight.pdf)**
 
 ## 🛠️ Tech Stack & Skills
 - **Power BI:** Advanced DAX, Power Query (M Language), and UI/UX for Executive Data Visualization.
