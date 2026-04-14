@@ -16,9 +16,5 @@ Professional Business Intelligence solution developed to monitor regional sales 
 - **Executive Dashboarding:** Developed a minimalist, senior-level dashboard tailored for Regional Directors (focusing on rapid, data-driven decision-making).
 - **ETL Rigor & Saneamento:** Rigorous data extraction and transformation routines applied to ensure high fidelity and governance in sales reporting.
 
-## 📂 Repository Structure
-- `/dashboard`: Contains the `.pbix` source file for technical audit.
-- `/docs`: Technical documentation and business requirements.
-
 ## 👩‍💻 Author
 **Steffani Amorim** - Software Engineer | Data & BI Analyst
