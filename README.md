@@ -3,7 +3,7 @@
 Professional Business Intelligence solution developed to monitor regional sales performance, focusing on robust data modeling, ETL rigor, and strategic commercial insights.
 
 ## 🔗 Quick Links
-- **[Interactive Dashboard](#)** *(Insira o link do Power BI Service aqui)*
+- **[Interactive Dashboard](#)**
 
 ## 🛠️ Tech Stack & Skills
 - **Power BI:** Advanced DAX, Power Query (M Language), and UI/UX for Executive Data Visualization.
