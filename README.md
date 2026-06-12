@@ -1,19 +1,20 @@
-# Sales Analytics - ChocoDelight
+# End-to-End Analytics & Data Governance - ChocoDelight
 
-Professional Business Intelligence solution developed to monitor regional sales performance, focusing on robust data modeling, ETL rigor, and strategic commercial insights.
+Professional Business Intelligence and Data Governance solution developed to monitor regional sales performance, focusing on strict data quality, clear data lineage, robust ETL rigor, and strategic commercial insights in a multinational context.
 
 ## 🔗 Quick Links
-- **[Interactive Dashboard](#)**
+- **[Interactive Dashboard](#)** *(Insert your link here)*
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Governance Skills
+- **Data Governance & Security:** Implementation of Row-Level Security (RLS) and alignment with LGPD/GDPR to ensure data privacy across different regional directorates.
+- **Data Quality & Architecture:** Relational data modeling, metric standardization, and deep data cleansing to prevent registration errors and ensure high-fidelity reporting.
 - **Power BI:** Advanced DAX, Power Query (M Language), and UI/UX for Executive Data Visualization.
-- **Data Architecture:** Relational data modeling, ETL processes, and metric standardization.
 - **Business Analytics:** Regional sales tracking, performance KPIs, and commercial intelligence tailored for directorship.
 
-## 🚀 Key Features & Business Insights
-- **Analytical Modeling:** Designed and implemented a comprehensive data model to support regional sales strategies and complex aggregations.
-- **Executive Dashboarding:** Developed a minimalist, senior-level dashboard tailored for Regional Directors (focusing on rapid, data-driven decision-making).
-- **ETL Rigor & Saneamento:** Rigorous data extraction and transformation routines applied to ensure high fidelity and governance in sales reporting.
+## 🚀 Key Features & Governance Insights
+- **Data Lineage & Analytical Modeling:** Designed and implemented a comprehensive data model establishing clear data lineage from raw extraction to support regional sales strategies and complex aggregations.
+- **Data Quality & ETL Rigor:** Rigorous data extraction and advanced Power Query validation routines applied to sanitize the database, correct inconsistencies, and enforce governance in sales reporting.
+- **Executive Dashboarding & Access Control:** Developed a minimalist, senior-level dashboard tailored for Regional Directors. Applied Row-Level Security (RLS) to guarantee that commercial metrics are securely restricted based on the user's regional access level.
 
 ## 👩‍💻 Author
-**Steffani Amorim** - Software Engineer | Data & BI Analyst
+**Steffani Amorim** - Software Engineer | Data Governance & BI Analyst
