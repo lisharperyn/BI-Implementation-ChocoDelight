@@ -17,7 +17,7 @@ Professional Business Intelligence and Data Governance solution developed to mon
 - **Executive Dashboarding & Access Control:** Developed a minimalist, senior-level dashboard tailored for Regional Directors. Applied Row-Level Security (RLS) to guarantee that commercial metrics are securely restricted based on the user's regional access level.
 
 ## 📂 Repository Structure
-- `/dashboard`: Contains the **[.pbix source file](https://github.com/lisharperyn/BI-Implementation-ChocoDelight/blob/main/Choco%20Delight%20-%20BI%20Implementation.pbix)** for technical audit (DAX measures, M scripts, RLS setup, and Data Model).
+- Contains the **[.pbix source file](https://github.com/lisharperyn/BI-Implementation-ChocoDelight/blob/main/Choco%20Delight%20-%20BI%20Implementation.pbix)** for technical audit (DAX measures, M scripts, RLS setup, and Data Model).
 
 ## 👩‍💻 Author
 **Steffani Amorim** - Software Engineer | Data Governance & BI Analyst
