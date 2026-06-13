@@ -3,7 +3,7 @@
 Professional Business Intelligence and Data Governance solution developed to monitor regional sales performance, focusing on strict data quality, clear data lineage, robust ETL rigor, and strategic commercial insights in a multinational context.
 
 ## 🔗 Quick Links
-- **[Interactive Dashboard](#)** <!--*(Insert your link here)*-->
+- **[Interactive Dashboard](https://app.fabric.microsoft.com/reportEmbed?reportId=4618a11f-d720-43fa-8877-5aaa0a7e1d5b&autoAuth=true&ctid=c5cc41de-297c-4495-9481-dc8734102a33)**
 
 ## 🛠️ Tech Stack & Governance Skills
 - **Data Governance & Security:** Implementation of Row-Level Security (RLS) and alignment with LGPD/GDPR to ensure data privacy across different regional directorates.
